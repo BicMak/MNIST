@@ -3,7 +3,7 @@ MNIST classification contest in Kaggle (24/02/12~24/03/12)
 
 ## 개요 (Overview)
 Kaggle 개최 Numeric Character Recognition 콘테스트로 MNIST 기반의 손글씨 분류 대회
-(https://www.kaggle.com/code/markuskim/mnist-submit)
+([https://www.kaggle.com/code/markuskim/mnist-submit](https://www.kaggle.com/code/markuskim/mnist-submit))
 최종 Score : 0.98 
 
 ## 🛠 사용 기술 (Tech Stack)
