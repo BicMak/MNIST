@@ -17,5 +17,5 @@ Kaggle 개최 Numeric Character Recognition 콘테스트로 MNIST 기반의 손�
 
 ## 🗂 폴더 구조 (Directory Structure)
 project/  
-├── image_segmentation_project.ipynb # 전체 실행 Jupyter 노트북  
+├── mnist-submit.ipynb # 전체 실행 Jupyter 노트북  
 
